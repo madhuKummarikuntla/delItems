@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.app-con {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.head {
+  font-family: 'Bree serif';
+  text-align: center;
+  color: #ffc2a0;
+}
+.todo-item-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  background-color: #fff;
+  border-radius: 20px;
+  display: flex;
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  max-width: 1120px;
+}
+.todos-list-con {
+  padding-left: 0px;
+}

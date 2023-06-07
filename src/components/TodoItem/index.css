@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.todo-con {
+  display: flex;
+  padding: 7px;
+  align-items: center;
+  justify-content: space-between;
+}
+.des {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 15px;
+}
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ff0b37;
+  border-radius: 10px;
+  border-width: 0px;
+  width: 100px;
+  height: 40px;
+  text-align: right;
+  margin-left: 40px;
+}
